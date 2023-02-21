@@ -1,0 +1,2 @@
+mkdir star_wars
+mkdir empire rebellion
