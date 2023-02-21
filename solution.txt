@@ -1,0 +1,156 @@
+  934  clear
+  935  ls
+  936  pwd
+  937  ls -a
+  938  ls -l
+  939  mkdir GA
+  940  cd GA
+  941  mkdir seir0221
+  942  ls
+  943  seir0221
+  944  touch file.txt
+  945  ls
+  946  rm file.txt
+  947  ls
+  948  ..
+  949  seir0221
+  950  touch readme.md
+  951  ls
+  952  rm readme.md
+  953  ls
+  954  mkdir homework labs lessons morning_exercises project sandbox
+  955  ls
+  956  lessons
+  957  ..
+  958  touch lessons/cli_intro.md
+  959  ls
+  960  lessons
+  961  ls
+  962  ..
+  963  touch lessons/git_intro.md
+  964  ls
+  965  touch lessons/git_intro.md
+  966  ls
+  967  touch lessons/css.md
+  968  ls
+  969  lessons
+  970  ls
+  971  ..
+  972  ls
+  973  touch lessons/html.md
+  974  ls
+  975  lessons
+  976  ls
+  977  ..
+  978  cd Desktop
+  979  ls
+  980  mkdir SEInotes
+  981  ls
+  982  SEInotes
+  983  touch notes.md
+  984  notes.md
+  985  code .
+  986  ..
+  987  cd
+  988  cd GA
+  989  ls
+  990  seir0221
+  991  ls
+  992  home
+  993  homework
+  994  mkdir unit1 unit2 unit3 unit4
+  995  ls
+  996  unit1
+  997  git clone git@github.com:JoseAguirreCruz/Star_Wars_CLI.git
+  998  ls
+  999  st
+ 1000  Star_Wars_CLI
+ 1001  code .
+ 1002  ..
+ 1003  ls
+ 1004  lessons
+ 1005  mkdir unit1 unit2 unit3 unit4
+ 1006  ls
+ 1007  ..
+ 1008  ls
+ 1009  project
+ 1010  mkdir unit1 unit2 unit3 unit4
+ 1011  ls
+ 1012  ..
+ 1013  ls
+ 1014  labs
+ 1015  mkdir unit1 unit2 unit3 unit4
+ 1016  ls
+ 1017  ..
+ 1018  ls
+ 1019  mkdir star_wars
+ 1020  cd star_wars
+ 1021  mkdir empire rebellion
+ 1022  ld
+ 1023  ls
+ 1024  empire
+ 1025  touch darth_vader.txt
+ 1026  ls
+ 1027  darth_vader.txt
+ 1028  cd darth_vader.txt
+ 1029  echo darth_vader.txt ...heavy breathing...
+ 1030  ls
+ 1031  cat darth_vader.txt
+ 1032  touch emperor_palpatine.txt
+ 1033  ls
+ 1034  mkdir death_star
+ 1035  ls
+ 1036  mv darth_vader.txt death_star
+ 1037  ls
+ 1038  death_star
+ 1039  ls
+ 1040  ..
+ 1041  git add .
+ 1042  git commit -m "Finished act1"
+ 1043  ls
+ 1044  act2.sh
+ 1045  cd rebellion
+ 1046  cd star_wars
+ 1047  ls
+ 1048  rebellion
+ 1049  cat princess_leia.txt Help me, Obi-Wan…You’re my only hope.
+ 1050  cat princess_leia.txt echo Help me, Obi-Wan…You’re my only hope.
+ 1051  touch princess_leia.txt
+ 1052  ls
+ 1053  echo princess_leia.txt Help me, Obi-Wan…You’re my only hope.
+ 1054  ls
+ 1055  touch obi_wan.txt
+ 1056  touch luke_skywalker.txt
+ 1057  mkdir millenium_falcon
+ 1058  ls
+ 1059  millenium_falcon
+ 1060  touch han_solo.txt chewbacca.txt
+ 1061  ls
+ 1062  ..
+ 1063  ls
+ 1064  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+ 1065  cd millenium_falcon
+ 1066  ls
+ 1067  mv millenium_falcon death_star
+ 1068  git commit -m "finished act2"
+ 1069  git push origin master
+ 1070  git add .
+ 1071  git commit -m "finished act2"
+ 1072  git push origin master 
+ 1073  ..
+ 1074  cd ..
+ 1075  ..
+ 1076  death_star
+ 1077  rm obi_wan.txt
+ 1078  ls\\nls
+ 1079  ls
+ 1080  rm death_star
+ 1081  ..
+ 1082  rm death_star
+ 1083  rm -rf death_star
+ 1084  ls
+ 1085  ..
+ 1086  \..
+ 1087  git add .
+ 1088  git commit -m "finished act3"
+ 1089  git push origin master 
