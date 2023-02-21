@@ -1,0 +1,197 @@
+  167  cd homework
+  168  git clone https://github.com/Madfarm/Star_Wars_CLI.git
+  169  ls
+  170  cd Star_Wars_CLI
+  171  code .
+  172  mkdir death_star
+  173  touch darth_vader.txt
+  174  touch princess_leia.txt
+  175  touch storm_trooper.txt
+  176  ls
+  177  rm princess_leia.txt darth_vader.txt
+  178  ls
+  179  rm storm_trooper.txt
+  180  ls
+  181  cd
+  182  cd ga
+  183  cd SEIR0221
+  184  cd homework
+  185  git clone https://github.com/Madfarm/daily-js-code-challenges.git
+  186  ls
+  187  cd Star_Wars_CLI
+  188  mkdir star_wars
+  189  ls
+  190  cd star_wars
+  191  mkdir empire rebellion
+  192  ls
+  193  cd empire
+  194  touch darth_vader.txt
+  195  ls
+  196  code darth_vader.txt
+  197  ls
+  198  mkdir emperor_palpatine.txt
+  199  ls
+  200  mkdir death_star
+  201  ls
+  202  mv darth_vader.txt death_star
+  203  ls
+  204  cd death_star
+  205  ls
+  206  cd ..
+  207  git add .
+  208  git commit -m "Finished Act 1, hope I committed properly"
+  209  cd star_wars
+  210  cd rebellion
+  211  touch princess_leia.txt code "Help me, Obi-Wan...You're my only hope."
+  212  ls
+  213  rm "Help me, Obi-Wan...You're my only hope."
+  214  ls
+  215  rm code
+  216  ls
+  217  code princess_leia.txt
+  218  ls
+  219  touch princess_leia.txt "Help me, Obi-Wan...You're my only hope."
+  220  l
+  221  ls
+  222  rm "Help me, Obi-Wan...You're my only hope."
+  223  ls
+  224  touch baloney.txt("Eat my shorts fool")
+  225  ls
+  226  touch baloney.txt(eat my shirts)
+  227  cat > balogna.txt
+  228  ls
+  229  cat balogna
+  230  cat balogna.txt
+  231  rm balogna.txt
+  232  cat princess_leia.txt
+  233  touch obi_wan.txt
+  234  ls
+  235  touch luke_skywalker.txt
+  236  ls
+  237  mkdir millenium_falcon
+  238  ls
+  239  cd millenium_falcon
+  240  touch han_solo.txt chewbacca.txt
+  241  ls
+  242  mv luke_
+  243  cd ..
+  244  ls
+  245  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  246  ls
+  247  cd millenium_falcon
+  248  ls
+  249  cd ..
+  250  ls
+  251  cd ..
+  252  ls
+  253  cd empire
+  254  ls
+  255  cd ..
+  256  cd rebellion
+  257  ls
+  258  mv millenium_falcon /star_wars/empire/death_star
+  259  cd
+  260  ls
+  261  cd ga
+  262  cd SEIR0221
+  263  ls
+  264  cd homework
+  265  ls
+  266  cd Star_Wars_CLI
+  267  mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
+  268  ls
+  269  cd star_wars
+  270  ls
+  271  cd empire
+  272  ls
+  273  cd death_star
+  274  ls
+  275  cd ..
+  276  git add .
+  277  git commit -m "I had to look up how to move directories and also how to create while adding text to it simultanouesly"
+  278  ls
+  279  cd star_wars
+  280  cd empire
+  281  cd death_star
+  282  mv millenium_falcon/* death_star
+  283  mv millenium_falcon/* /
+  284  cd ..
+  285  mv death_star/millenium_falcon/* death_star/
+  286  ls
+  287  cd death_star
+  288  ls
+  289  rm obi_wan.txt
+  290  ls
+  291  cd ..
+  292  ls
+  293  mv death_star/* death_star/millenium_falcon
+  294  cd death_star
+  295  ls
+  296  millenium_falcon
+  297  lks
+  298  ls
+  299  cd ..
+  300  mv millenium_falcon/darth_vader.txt death_star
+  301  ls
+  302  cd millenium_falcon
+  303  ls
+  304  cd ..
+  305  ls
+  306  cd death_star
+  307  cat > darth_vader.txt
+  308  history | tail -n 250
+  309  cd ga/SEIR0221/homework/Star_Wars_CLI
+  310  cd death_star
+  311  ls
+  312  cd ..
+  313  rmdir death_star
+  314  ls
+  315  cd star_wars/empire/death_star
+  316  ls
+  317  rm death_star
+  318  ls
+  319  cd ..
+  320  ls
+  321  cd ..
+  322  cd empire
+  323  ls
+  324  cd death_star
+  325  cd millenium_falcon
+  326  ls
+  327  cd ..
+  328  mv empire/death_star/millenium_falcon rebellion
+  329  ls
+  330  cd reblleion
+  331  cd rebellion
+  332  ls
+  333  cd ..
+  334  cd empire
+  335  mv death_star/darth.vader.txt ..
+  336  cd death_star
+  337  ls
+  338  cd ..
+  339  mv death_star/darth_vader.txt ..
+  340  cd death_star
+  341  ls
+  342  cd ..
+  343  ls
+  344  cd d
+  345  cd death_star
+  346  ls
+  347  cd ..
+  348  ls
+  349  cd ..
+  350  ls
+  351  mv darth_vader.txt empire
+  352  ls
+  353  cd empire
+  354  ls
+  355  cd ..
+  356  ls
+  357  cd empire
+  358  rm death_star
+  359  rmdir death_star
+  360  cd ..
+  361  git add .
+  362  git -m commit "All done! a few issues but for the most part pretty straightforward"
+  363  git commit -m "All done! a few issues but for the most part pretty straightforward"
