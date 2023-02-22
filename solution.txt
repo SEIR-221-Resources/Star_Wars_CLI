@@ -1,0 +1,254 @@
+This is what printed when I typed tail -n 250 ... not sure why 
+
+  752  cd ..
+  753  pwd
+  754  cd death_star
+  755  pwd
+  756  mv chewbacca.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star
+  757  cd millenium_falcon
+  758  mv chewbacca.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star
+  759  ls
+  760  mv han_solo.txt luke_skywalker.txt obi_wan.txt princess_leia.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star
+  761  ls
+  762  cd ..
+  763  ls
+  764  rm obi_wan.txxt
+  765  rm obi_wan.txt
+  766  ls
+  767  chewbacca.txt hanm_solo.txt luke_skywalker.txt princess_leia.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star/millenium_falcon
+  768  mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star/millenium_falcon\n
+  769  cd millenium_falcon
+  770  l
+  771  mv millenium_falcon hewbacca.txt hanm_solo.txt luke_skywalker.txt princess_leia.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/rebellion\n
+  772  mv millenium_falcon /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/rebellion/
+  773  cd death_star
+  774  cd ..
+  775  mv millenium_falcon /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/rebellion/
+  776  cd ..
+  777  cd death_star
+  778  mv darth_vader.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/
+  779  ls
+  780  cd ..
+  781  ls
+  782  rm -r death_star
+  783  git clone https://github.com/nprati01/new-repo-starter.git
+  784  .code
+  785  code .
+  786  ls
+  787  git status
+  788  cd new-repo-starter
+  789  git status
+  790  git add.
+  791  git add .
+  792  git status
+  793  gi status
+  794  git status
+  795  git add .
+  796  git commit -m "I added my answers"
+  797  git push orgin main
+  798  git push origin main
+  799  cd lessons
+  800  cd intro_arrays.js
+  801  ls
+  802  node intro-arrays.js 
+  803  lessons node intro-arrays.js
+  804  cd lessons
+  805  node intro-arrays.js
+  806  node intro_arrays.js
+  807  node intro_arrays.js screen shot
+  808  clear
+  809  node intro_arrays.js
+  810  clear
+  811  ~ cd
+  812  cd ..
+  813  pwd
+  814  cd sei
+  815  cd homework
+  816  ls
+  817  rm -f Star_Wars_CLI
+  818  rmdir -f Star_Wars_CLI
+  819  cd ..
+  820  ls
+  821  cd lessons
+  822  ls
+  823  mkdir intro_functions
+  824  ls
+  825  cd sei
+  826  cd homework
+  827  cd Star_Wars_CLI
+  828  rmdir -f
+  829  cd star_wars
+  830  rm -r star_wars
+  831  cd ..
+  832  rem -r star_wars
+  833  rm -r star_wars
+  834  ls
+  835  cat act1.sh
+  836  mkdir star_wars
+  837  mkdir -p empire/rebellion
+  838  ls
+  839  rmdir empire
+  840  rmdir rebellion
+  841  cd empire
+  842  ls
+  843  rm -r rebellion
+  844  cd ..
+  845  rm -r empire
+  846  ls
+  847  cd star_wars
+  848  mkdir {empire, rebellion}
+  849  mkdir {'empire', 'rebellion'}
+  850  mkdir {empire,rebellion}
+  851  ls
+  852  cd empire
+  853  touch darth_vader.txt
+  854  echo '...heavy breathing...'>>darth_vader.txt
+  855  touch emperor_palpatine.txt
+  856  mkdir death_star
+  857  mv darth_vader.txt death_star
+  858  ls
+  859  cd death star
+  860  cd death_star
+  861  ls
+  862  cd ..
+  863  git add .
+  864  git status
+  865  git commit -m ['act 1 is complete']
+  866  git commit -m ["act 1 is complete"]
+  867  git commit -m "act 1 is complere"
+  868  cd rebellion
+  869  echo "Help me, Obi-Wan...You're my only hope.">princess_leia.txt
+  870  touch obi_wan.txt
+  871  touch luke_skywalker.txt
+  872  mkdir millenium_falcon
+  873  cd millenium_falcon
+  874  touch han_solo.txt
+  875  touch chewbacca.txt
+  876  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  877  cd ..
+  878  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  879  ls
+  880  cd millenium_falcon
+  881  ls
+  882  git add .
+  883  cd ..
+  884  ls
+  885  cd homework
+  886  ls
+  887  cd daily-js-code-challanges
+  888  cd daily-js-code-challenges
+  889  git status
+  890  git add .
+  891  git status
+  892  git commit -m "challanges update"
+  893  git remote -v
+  894  git status
+  895  git add .
+  896  git commit -m "challange 1 solved"
+  897  git push origin master
+  898  cd ..
+  899  ls
+  900  cd Star_Wars_CLI
+  901  ls
+  902  cd star_wars
+  903  ls
+  904  cd rebellion
+  905  ls
+  906  cd millenium_falcon
+  907  ls
+  908  cd .. 
+  909  cd ..
+  910  cd emire
+  911  cd empire
+  912  ls
+  913  cd death_star
+  914  pwd
+  915  mv millenium_falcon /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star
+  916  cd ..
+  917  cd rebellion
+  918  cd millenium_falcon
+  919  cd ..
+  920  mv millenium_falcon /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star
+  921  cd ..
+  922  ls
+  923  cd empire
+  924  ls
+  925  cd deat_star
+  926  cd death_star
+  927  ls
+  928  git add .
+  929  git commit -m "challange 2 completed"
+  930  cd ..
+  931  cd rebellion
+  932  cd millenium_falcon
+  933  cd ..
+  934  cd empire 
+  935  cd death_star
+  936  cd millenium_falcon
+  937  mv *.txt ~/death_star
+  938  mv *.txt ~/empire/death_star
+  939  mv *.txt ~/star_war/empire/death_star
+  940  mv *.txt /death_star
+  941  mv *.txt death_star
+  942  mv cd ..
+  943  cd ..
+  944  mv chewbacca.txt death_star
+  945  ls
+  946  cd millenium_falcon
+  947  ls
+  948  mv *.txt ~/death_star
+  949  mv chewbacca.txt death_star
+  950  mv han_solo.txt luke_skywalker.txt princess_lea.txt death_star
+  951  cd
+  952  cd ..
+  953  cd sei
+  954  clear
+  955  cd sei
+  956  cd homework
+  957  ls
+  958  cd Star_wars_CLI
+  959  cd star_wars
+  960  cd empire
+  961  cd death_star
+  962  ls
+  963  cd millenium_falcon
+  964  ls
+  965  mv death_star chewbacca.txt
+  966  mv millenium_falcon/*.txt /death_star
+  967  mv *.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star
+  968  cd 
+  969  cd sei/homework/Star_Wars_CLI/star_wars
+  970  cd empire
+  971  cd death_star
+  972  ls
+  973  rm death_star
+  974  rm obi_wan.txt
+  975  ls
+  976  histroy
+  977  mv *.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star/millenium_falcon
+  978  cd millenium_falcon
+  979  ls
+  980  mv darth_vader.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/empire/death_star\n
+  981  ls
+  982  cd ..
+  983  mv millenium_falcon /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/rebellion
+  984  mv darth_vader /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/rebellion
+  985  mv darth_vader.txt /Users/nicoleprati/sei/homework/Star_Wars_CLI/star_wars/rebellion
+  986  rmdir -f death_star
+  987  cd ..
+  988  rmdir -f death_star
+  989  rmdir death_star
+  990  cd ..
+  991  tree
+  992  git add .
+  993  git status
+  994  git add .
+  995  git commit -m "act three complete"
+  996  git add . <act1.sh>
+  997  git add . act1.sh
+  998  cd ..
+  999  git add .
+ 1000  git status
+ 1001  git commit -m "all acts complete"
+Clear
+
