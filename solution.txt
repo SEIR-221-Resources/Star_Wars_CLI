@@ -1,0 +1,9 @@
+Act 1
+mkdir star_wars
+mkdir {empire,rebellion}
+touch darth_vader.txt
+echo "...heavy breathing..." > darth_vader.txt
+touch emperor_palpatine.txt
+mkdir death_star
+mv ./darth_vader.txt ./death_star/darth_vader.txt
+
