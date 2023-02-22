@@ -1,0 +1,116 @@
+Solution
+
+   35  gh repo clone SEIR-221-Resources/Star_Wars_CLI
+   36  ls
+   37  cd Star_Wars_CLI
+   38  code .
+   39  mkdir star_wars
+   40  cd star_wars
+   41  mkdir empire rebellion
+   42  cd empire
+   43  touch darth_vader.txt
+   44  echo "...heavy breathing..." >> ~/darth_vader.txt\n
+   45  echo "...heavy breathing..." >> ~/.darth_vader.txt
+   46  echo "...heavy breathing..." >> darth_vader.txt
+   47  ../
+   48  cd empire
+   49  touch emperor_palpatine.txt
+   50  mkdir death_star
+   51  mv darth_vader.txt ~/death_star
+   52  ../
+   53  ls
+   54  cd empire
+   55  ls
+   56  cd death_star
+   57  ls
+   58  ../
+   59  touch darth_vader.txt\n
+   60  mv darth_vader.txt star_wars/empire/death_star
+   61  mv darth_vader.txt ~/star_wars/empire/death_star
+   62  mv darth_vader.txt death_star
+   63  git add .
+   64  gi commit -m "Act 1: Complete"
+   65  git commit -m "Act 1: Complete"
+   66  history
+   67  ../
+   68  cd rebellion
+   69  cat > princess_leia.txt
+   70  touch obi_wan.txt
+   71  touch luke_skywalker.txt
+   72  mkdir millenium_falcon
+   73  cd millenium_falcon
+   74  touch han_solo.txt chewbacca.txt
+   75  mv luke_skywalkeer.txt obi_wan.txt princess_leia.txt millenium_falcon
+   76  mv luke_skywalkeer.txt millenium_falcon
+   77  mv luke_skywalker.txt millenium_falcon
+   78  ../
+   79  mv millenium_falcon death_star
+   80  cd rebellion
+   81  mv millenium_falcon star_wars
+   82  mv star_wars millenium_falcon
+   83  mv ~/star_wars/rebellion/millenium_falcon ~/star_wars/empire/death_star
+   84  git add .
+   85  git commit -m "Act 2: Complete\n\n"
+    86  history
+   87  mv -v millenium_falcon/ ..
+   88  mv millenium_falcon empire
+   89  mv -v millenium_falcon empire
+   90  cd
+   91  cd GA
+   92  ls
+   93  cd homework
+   94  ls
+   95  cd Star_Wars_CLI/star_wars
+   96  mv -v millenium_falcon empire
+   97  mv -v millenium_falcon death_star
+   98  mv millenium_falcon death_star
+   99  mv /star
+  100  mv -v millenium_falcon ... death_star
+  101  mv millenium_falcon ... death_star
+  102  mv -hv millnium_falcon death_star
+  103  mv millenium_falcon /death_star
+  104  git add .
+  105  git commit -m "Act 2: Completed"
+  106  history
+  107  mv -v millenium_falcon/* death_star
+  108  gh repo clone adricastro1/Star_Wars_CLI
+  109  git add .
+  110  git rm --cached star_wars/Star_Wars_CLI
+  111  exit
+  112  git status
+  113  cd GA
+  114  cd homework
+  115  cd Star_Wars_CLI
+  116  git branch
+  117  git add -A
+  118  git commit -m "HW"
+  119  git push origin master
+  120  history
+  121  git push 
+  122  git remote -v
+  123* exit
+  124  cd GA/homework/Star_Wars_CLI/star_wars
+  125  history
+  126  cd empire
+  127  mv -v /millenium_falcon/* death_star
+  128  mv -v millenium_falcon/* death_star
+  129  cd death_star
+  130  rm obi_wan.txt
+  131  mv -v chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt millenium_falcon
+  132  mv v- chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt star_wars
+  133  mv -v chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt star_wars
+  134  mv -v chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt ..
+  135  ..
+  136  mv -v chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt millenium_falcon
+  137  mv -v millenium_falcon ..
+  138  mv -v millenium_falcon rebellion
+  139  ..
+  140  mv -v millenium_falcon rebellion
+  141  cd empire
+  142  mv -v darth_vader ..
+  143  mv -v darth_vader.txt ..
+  144  cd death_star
+  145  mv -v darth_vader.txt ..
+  146  rmdir death_star
+  147  ..
+  148  rmdir death_star
