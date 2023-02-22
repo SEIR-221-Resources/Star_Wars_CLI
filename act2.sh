@@ -11,3 +11,4 @@ touch han_solo.txt chewbacca.txt
 # 6. Move luke_skywalker, obi_wan, and princess_leia into the millenium_falcon, respectively.
 mv {luke_skywalker,obi_wan,princess_leia}.txt millenium_falcon
 # 7. Move the millenium_falcon into the death_star.
+mv millenium_falcon ../empire/death_star
