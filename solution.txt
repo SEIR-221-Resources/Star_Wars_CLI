@@ -1,0 +1,173 @@
+ 1  echo $SHELL
+    2  ^[[200~sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"~
+    3  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    4  code .
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    6  eval "$(/usr/local/bin/brew shellenv)"
+    7  brew doctor
+    8  brew install git
+    9  \n
+   10  brew link --overwrite gettext
+   11  git config --global user.name "mgballou"
+   12  git config --global user.email "matthewbuiltthat@gmail.com"
+   13  git config --global init.defaultBranch main
+   14  git config --global core.editor "code --wait"
+   15  git config --global pull.rebase false
+   16  touch ~/.gitignore_global
+   17  git config --global core.excludesfile ~/.gitignore_global
+   18  code ~/.gitignore_global
+   19  brew install github
+   20  brew uninstall github
+   21  brew install gh
+   22  gh auth login
+   23  brew install node
+   24  node -v
+   25  npm -v
+   26  npm i -g nodemon
+   27  ls
+   28  ls -a
+   29  hgdsajdg
+   30  pwd
+   31  cd developer
+   32  pd
+   33  pwd
+   34  ls
+   35  ls -a
+   36  ~
+   37  pwd
+   38  ls
+   39  cd developer
+   40  mkdir GA
+   41  cd GA
+   42  mkdir Unit_1
+   43  mkdir Unit_2
+   44  mkdir Unit_3
+   45  mkdir Unit_4
+   46  ls
+   47  cd Unit_1
+   48  mkdir Week_1
+   49  mkdir Week_2
+   50  mkdir Week_3
+   51  ls
+   52  ~
+   53  ls -l
+   54  cd developer/ga
+   55  ls
+   56  cd unit_2
+   57  mkdir Week 1
+   58  ls
+   59  cd ..
+   60  cd Unit_1
+   61  cd Week_1
+   62  touch file.text
+   63  ls
+   64  touch readme.md
+   65  code readme.md
+   66  cat readme.md
+   67  rm readme.md
+   68  ls
+   69  man ls
+   70  man touch
+   71  cd developer
+   72  cd ga
+   73  mkdir -p sei/(homework,labs,lessons,morning_exercies,projects,sandbox)
+   74  ls
+   75  mkdir sei
+   76  cd sei
+   77  mkdir homework
+   78  mkdir labs
+   79  mkdir lessons
+   80  mkdir morning_exercises
+   81  mkdir projects
+   82  mkdir sandbox
+   83  ls
+   84  cd lessons
+   85  touch cli_intro.md
+   86  ls
+   87  cd ..
+   88  touch lessons/{git_intro,html,css}.md
+   89  cd lessons
+   90  ls
+   91  cd ..
+   92  cd homework
+   93  git clone https://github.com/mgballou/Star_Wars_CLI.git
+   94  ls
+   95  cd Star_Wars_CLI
+   96  ls
+   97  cd ..
+   98  git clone https://github.com/mgballou/daily-js-code-challenges.git
+   99  ls
+  100  cd daily-js-code-challenges
+  101  code .
+  102  cd developer/ga/homework
+  103  cd ~developer/ga/homework
+  104  cd developer
+  105  cd ga
+  106  cd sei
+  107  cd homework
+  108  ls
+  109  cd Star_Wars_CLI
+  110  ls
+  111  mkdir star_wars
+  112  mkdir /(empire,rebellion)
+  113  mkdir /(empire,rebellion)/
+  114  mkdir star_wars/(empire,rebellion)/
+  115  mkdir star_wars/{empire,rebellion}
+  116  ls
+  117  cd star_wars
+  118  ls
+  119  touch empire/darth_vader.txt
+  120  cd empire
+  121  ls
+  122  cd ..
+  123  cd empire
+  124  echo "...heavy breathing..." >> darth_vader.txt
+  125  cat darth_vader.txt
+  126  touch emperor_palpatine.txt
+  127  mkdir death_star
+  128  mv darth_vader.txt death_star
+  129  cd death_star
+  130  ls
+  131  cd ~/developer/ga/sei/star_wars_cli/star_wars/rebellion
+  132  cd ..
+  133  cd rebellion
+  134  echo "Help me, Obi-Wan…You’re my only hope." >> princess_leia.txt
+  135  cat princess_leia.txt
+  136  touch obi_wan.txt
+  137  touch luke_skywalker.txt
+  138  ls
+  139  mkdir millenium_falcon
+  140  touch millenium_falcon/{han_solo.txt,chewbacca.txt}
+  141  cd millenium_falcon
+  142  ls
+  143  cd ..
+  144  mv /{luke_skywalker.txt,obi_wan.txt,princess_leia.txt} millenium_falcon
+  145  mv rebellion/{luke_skywalker.txt,obi_wan.txt,princess_leia.txt} millenium_falcon
+  146  ls
+  147  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  148  ls
+  149  cd millenium_falcon
+  150  ls
+  151  cd ..
+  152  mv rebellion/millenium_falcon empire/death_star
+  153  cd empire/death_star
+  154  ls
+  155  mv millenium_falcon/* death_star
+  156  mv millenium_falcon/* death_star/
+  157  cd ..
+  158  mv death_star/millenium_falcon/* death_star/
+  159  cd death_star
+  160  ls
+  161  rm obi_wan.txt
+  162  mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt millenium_falcon
+  163  cd ..
+  164  mv empire/death_star/millenium_falcon rebellion
+  165  ls
+  166  cd rebellion
+  167  ls
+  168  cd ..
+  169  mv empire/death_star/darth_vader.txt empire
+  170  rmdir empire/death_star
+  171  ls empire/death_star
+  172  rmdir empire/death_star -rf
+  173  rm -rf empire/death_star 
