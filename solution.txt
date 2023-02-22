@@ -7,3 +7,11 @@ touch emperor_palpatine.txt
 mkdir death_star
 mv ./darth_vader.txt ./death_star/darth_vader.txt
 
+Act 2
+echo "Help me, Obi-Wan…You’re my only hope." > princess_leia.txt
+touch obi_wan.txt
+touch luke_skywalker.txt
+mkdir millenium_falcon
+touch millenium_falcon/{han_solo,chewbacca}.txt
+mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+mv millenium_falcon ../empire/death_star 
