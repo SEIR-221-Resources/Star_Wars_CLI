@@ -15,3 +15,11 @@ mkdir millenium_falcon
 touch millenium_falcon/{han_solo,chewbacca}.txt
 mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
 mv millenium_falcon ../empire/death_star 
+
+Act 3
+mv millenium_falcon/* ./
+rm obi_wan.txt 
+mv chewbacca.txt han_solo.txt luke_skywalker.txt princess_leia.txt ./millenium_falcon
+mv millenium_falcon ../../rebellion
+mv darth_vader.txt ../
+rm -r death_star
